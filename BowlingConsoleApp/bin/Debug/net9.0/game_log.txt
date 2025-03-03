@@ -1,0 +1,122 @@
+[3/3/2025 4:35:05 PM] Game Session Started
+--------Game 1--------
+[3/3/2025 4:35:10 PM] apa joined the game.
+[3/3/2025 4:35:11 PM] money joined the game.
+[3/3/2025 4:35:12 PM] Match started with 2 players, 3 rounds.
+[3/3/2025 4:35:16 PM] Game Over!
+--------Game 2--------
+[3/3/2025 4:35:36 PM] ddd joined the game.
+[3/3/2025 4:35:37 PM] Hard AI AI joined the game.
+[3/3/2025 4:35:39 PM] Match started with 2 players, 1 rounds.
+[3/3/2025 4:35:40 PM] Game Over!
+[3/3/2025 4:46:00 PM] Game Session Started
+--------Game 1--------
+[3/3/2025 4:46:11 PM] bobbysan joined the game.
+[3/3/2025 4:46:12 PM] Hard AI AI joined the game.
+[3/3/2025 4:46:14 PM] Match started with 2 players, 4 rounds.
+[3/3/2025 4:46:17 PM] Game Over!
+[3/3/2025 5:42:10 PM] Game Session Started
+--------Game 1--------
+[3/3/2025 5:42:18 PM] toby joined the game.
+[3/3/2025 5:42:19 PM] Hard AI AI joined the game.
+[3/3/2025 5:42:21 PM] Match started with 2 players, 3 rounds.
+[3/3/2025 5:42:25 PM] Game Over!
+[3/3/2025 5:43:30 PM] Game Session started
+--------Game 1--------
+[3/3/2025 5:43:36 PM] ddd VS Hard Computer
+--------Game 2--------
+[3/3/2025 6:03:01 PM] Game Session started
+--------Game 1--------
+[3/3/2025 6:03:07 PM] tofy VS Hard Computer
+[3/3/2025 6:03:08 PM] System.Collections.Generic.List`1[BowlingConsoleApp.src.Players.Player] number of rounds 3
+--------Game 2--------
+[3/3/2025 6:03:24 PM] Player 1:tobvy vs Player 2: moke
+[3/3/2025 6:03:25 PM] System.Collections.Generic.List`1[BowlingConsoleApp.src.Players.Player] number of rounds 4
+[3/3/2025 6:15:39 PM] Game Session started
+--------Game 1--------
+[3/3/2025 6:15:44 PM] don VS Hard Computer
+[3/3/2025 6:15:46 PM] number of rounds 3
+[3/3/2025 6:15:49 PM] Match result: Hard Computer vs don
+[3/3/2025 6:15:49 PM] Scores: Hard Computer: 30, don: 9
+[3/3/2025 6:15:49 PM] Score difference: 21 points
+--------Game 2--------
+[3/3/2025 6:16:54 PM] Game Session started
+--------Game 1--------
+[3/3/2025 6:16:59 PM] dd VS Hard Computer
+[3/3/2025 6:17:00 PM] number of rounds 3
+[3/3/2025 6:17:03 PM] Match result: Hard Computer vs dd
+[3/3/2025 6:17:03 PM] Scores: Hard Computer: 30, dd: 8
+[3/3/2025 6:17:03 PM] Hard Computer wins with a score difference of 22 points!
+--------Game 2--------
+[3/3/2025 6:24:55 PM] Game Session started
+--------Game 1--------
+[3/3/2025 6:25:03 PM] dd VS Hard Computer
+[3/3/2025 6:25:05 PM] number of rounds 2
+[3/3/2025 6:25:06 PM] Match result: Hard Computer vs dd
+[3/3/2025 6:25:06 PM] Scores: Hard Computer: 20, dd: 4
+[3/3/2025 6:25:06 PM] Hard Computer wins with a score difference of 16 points!
+--------Game 2--------
+[3/3/2025 6:25:13 PM] Game Session started
+--------Game 3--------
+[3/3/2025 6:25:19 PM] dd VS Hard Computer
+[3/3/2025 6:25:20 PM] number of rounds 2
+[3/3/2025 6:25:22 PM] Match result: Hard Computer vs dd
+[3/3/2025 6:25:22 PM] Scores: Hard Computer: 20, dd: 4
+[3/3/2025 6:25:22 PM] Hard Computer wins with a score difference of 16 points!
+--------Game 4--------
+[3/3/2025 6:25:28 PM] Game Session started
+--------Game 5--------
+[3/3/2025 6:25:33 PM] d VS Hard Computer
+[3/3/2025 6:25:33 PM] number of rounds 2
+[3/3/2025 6:25:34 PM] Match result: Hard Computer vs d
+[3/3/2025 6:25:34 PM] Scores: Hard Computer: 20, d: 4
+[3/3/2025 6:25:34 PM] Hard Computer wins with a score difference of 16 points!
+--------Game 6--------
+[3/3/2025 8:01:40 PM] Game Session started
+--------Game 7--------
+[3/3/2025 8:01:46 PM] dd VS Hard Computer
+[3/3/2025 8:01:48 PM] number of rounds 3
+[3/3/2025 8:01:48 PM] Match result: Hard Computer vs dd
+[3/3/2025 8:01:48 PM] Scores: Hard Computer: 30, dd: 12
+[3/3/2025 8:01:48 PM] Hard Computer wins with a score difference of 18 points!
+--------Game 8--------
+[3/3/2025 8:02:31 PM] ddd VS Hard Computer
+[3/3/2025 8:02:33 PM] number of rounds 4
+[3/3/2025 8:02:33 PM] Match result: Hard Computer vs ddd
+[3/3/2025 8:02:33 PM] Scores: Hard Computer: 40, ddd: 22
+[3/3/2025 8:02:33 PM] Hard Computer wins with a score difference of 18 points!
+--------Game 9--------
+[3/3/2025 8:06:51 PM] Game Session started
+--------Game 10--------
+[3/3/2025 8:06:57 PM] dd VS Hard Computer
+[3/3/2025 8:06:58 PM] number of rounds 3
+[3/3/2025 8:07:07 PM] Match result: Hard Computer vs dd
+[3/3/2025 8:07:07 PM] Scores: Hard Computer: 30, dd: 12
+[3/3/2025 8:07:07 PM] Hard Computer wins with a score difference of 18 points!
+--------Game 11--------
+[3/3/2025 8:07:15 PM] monke VS Easy Computer
+[3/3/2025 8:07:17 PM] number of rounds 30
+[3/3/2025 8:07:27 PM] Match result: monke vs Easy Computer
+[3/3/2025 8:07:27 PM] Scores: monke: 193, Easy Computer: 140
+[3/3/2025 8:07:27 PM] monke wins with a score difference of 53 points!
+--------Game 12--------
+[3/3/2025 8:09:07 PM] Game Session started
+--------Game 13--------
+[3/3/2025 8:09:22 PM] tod VS Hard Computer
+[3/3/2025 8:09:24 PM] number of rounds 3
+[3/3/2025 8:09:27 PM] Match result: Hard Computer vs tod
+[3/3/2025 8:09:27 PM] Scores: Hard Computer: 30, tod: 5
+[3/3/2025 8:09:27 PM] Hard Computer wins with a score difference of 25 points!
+--------Game 14--------
+[3/3/2025 8:09:32 PM] Player 1:ddd vs Player 2: 333
+[3/3/2025 8:09:34 PM] number of rounds 4
+[3/3/2025 8:09:45 PM] Match result: ddd vs 333
+[3/3/2025 8:09:45 PM] Scores: ddd: 28, 333: 14
+[3/3/2025 8:09:45 PM] ddd wins with a score difference of 14 points!
+--------Game 15--------
+[3/3/2025 8:29:40 PM] Player 1:dd vs Player 2: hej
+[3/3/2025 8:29:42 PM] number of rounds 3
+[3/3/2025 8:29:47 PM] Match result: hej vs dd
+[3/3/2025 8:29:47 PM] Scores: hej: 21, dd: 18
+[3/3/2025 8:29:47 PM] hej wins with a score difference of 3 points!
+--------Game 16--------

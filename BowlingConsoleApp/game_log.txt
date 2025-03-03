@@ -1,0 +1,8 @@
+[3/3/2025 7:48:27 PM] Game Session started
+--------Game 1--------
+[3/3/2025 7:48:53 PM] tod VS Hard Computer
+[3/3/2025 7:48:54 PM] number of rounds 3
+[3/3/2025 7:48:56 PM] Match result: Hard Computer vs tod
+[3/3/2025 7:48:56 PM] Scores: Hard Computer: 30, tod: 3
+[3/3/2025 7:48:56 PM] Hard Computer wins with a score difference of 27 points!
+--------Game 2--------

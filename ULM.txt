@@ -1,0 +1,83 @@
+@startuml
+' Strategy Pattern
+interface IAiStrategy {
+    + PlayTurn(): int
+}
+
+class EasyAiStrategy {
+    + PlayTurn(): int
+}
+
+class HardAiStrategy {
+    + PlayTurn(): int
+}
+
+IAiStrategy <|-- EasyAiStrategy
+IAiStrategy <|-- HardAiStrategy
+
+' Player Hierarchy
+abstract class Player {
+    - Name: string
+    - Score: int
+    + Play(): void
+}
+
+class HumanPlayer {
+    + Play(): void
+}
+
+class AiPlayer {
+    - _aiStrategy: IAiStrategy
+    + Play(): void
+}
+
+Player <|-- HumanPlayer
+Player <|-- AiPlayer
+
+' Composition: AiPlayer contains an IAiStrategy
+AiPlayer *-- IAiStrategy
+
+' Factory Pattern
+abstract class PlayerFactory {
+    + CreatePlayer(name: string): Player
+}
+
+class HumanPlayerFactory {
+    + CreatePlayer(name: string): Player
+}
+
+class AiPlayerFactory {
+    - _aiStrategy: IAiStrategy
+    + CreatePlayer(name: string): Player
+}
+
+PlayerFactory <|-- HumanPlayerFactory
+PlayerFactory <|-- AiPlayerFactory
+
+' Dependency: AiPlayerFactory requires an IAiStrategy
+AiPlayerFactory --> IAiStrategy 
+
+' Singleton Logger
+class SingletonLogger {
+    - _instance: SingletonLogger
+    - _lock: object
+    + Instance: SingletonLogger
+    + Log(message: string): void
+}
+
+' Match System
+class Match {
+    - _players: List<Player>
+    - _rounds: int
+    + Start(): void
+}
+
+class GameManager {
+    + StartGame(): void
+}
+
+GameManager --> Match
+Match --> Player
+SingletonLogger --> Match
+SingletonLogger --> GameManager
+@enduml

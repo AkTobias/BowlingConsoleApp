@@ -1,0 +1,14 @@
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/bin/Debug/net9.0/BowlingConsoleApp
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/bin/Debug/net9.0/BowlingConsoleApp.deps.json
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/bin/Debug/net9.0/BowlingConsoleApp.runtimeconfig.json
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/bin/Debug/net9.0/BowlingConsoleApp.dll
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/bin/Debug/net9.0/BowlingConsoleApp.pdb
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/BowlingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/BowlingConsoleApp.AssemblyInfoInputs.cache
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/BowlingConsoleApp.AssemblyInfo.cs
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/BowlingConsoleApp.csproj.CoreCompileInputs.cache
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/BowlingConsoleApp.dll
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/refint/BowlingConsoleApp.dll
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/BowlingConsoleApp.pdb
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/BowlingConsoleApp.genruntimeconfig.cache
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/ref/BowlingConsoleApp.dll
