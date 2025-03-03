@@ -9,3 +9,5 @@ using BowlingConsoleApp.src.Logger;
 
 GameManager gameManager = new GameManager();
 gameManager.StartGame();
+
+

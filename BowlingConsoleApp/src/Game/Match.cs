@@ -14,6 +14,7 @@ namespace BowlingConsoleApp.src.Game
         private List<Player> _players;
 
         private int _rounds;
+        
 
         public Match(List<Player> players , int rounds)
         {

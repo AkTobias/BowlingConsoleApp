@@ -1,0 +1,30 @@
+1.Start the Game
+    *Initialize the game session.
+    * Log the start of the session
+2.Choose game Mode
+    1. Human vs Human
+    Prompt user to enter names of player 1 and player 2.
+    Create Human player for both.
+    2. Human vs Computer
+    prompt the user to enter name of player.
+    promt the uer to choose ai difficulty(easy, hard)
+    Based on choices, create the coresponidng AI.
+3. Choose number of rounds
+    User selects how many rounds they want to play.
+4.
+    Action player 1 Plays
+    Action player 2 Plays(or Ai depending on game mode)
+    Action the game checks if all rounds are played.
+5.
+    Game result
+    Once all rounds are played, display both players score.
+    Depermine the winner and looser depending on score.
+    Display the winner and score difference between the players.
+6.
+    Log Game result
+    Logs the game result in a text file, including time, player names, score and winner/looser
+7.
+    Ask if the user want to play again
+    Yes: starts over:
+    No: Exits the game.
+    
