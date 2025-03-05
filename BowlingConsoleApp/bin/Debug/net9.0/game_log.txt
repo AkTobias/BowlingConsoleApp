@@ -120,3 +120,89 @@
 [3/3/2025 8:29:47 PM] Scores: hej: 21, dd: 18
 [3/3/2025 8:29:47 PM] hej wins with a score difference of 3 points!
 --------Game 16--------
+[3/5/2025 9:29:41 AM] Game Session started
+--------Game 17--------
+[3/5/2025 9:29:56 AM] Player 1:toby vs Player 2: d
+[3/5/2025 9:29:59 AM] number of rounds 3
+[3/5/2025 9:30:02 AM] Match result: d vs toby
+[3/5/2025 9:30:02 AM] Scores: d: 18, toby: 15
+[3/5/2025 9:30:02 AM] d wins with a score difference of 3 points!
+--------Game 18--------
+[3/5/2025 9:30:23 AM] 2 VS Hard Computer
+[3/5/2025 9:30:24 AM] number of rounds 2
+[3/5/2025 9:30:24 AM] Match result: Hard Computer vs 2
+[3/5/2025 9:30:24 AM] Scores: Hard Computer: 20, 2: 2
+[3/5/2025 9:30:24 AM] Hard Computer wins with a score difference of 18 points!
+--------Game 19--------
+[3/5/2025 9:35:57 AM] Game Session started
+--------Game 20--------
+[3/5/2025 9:36:12 AM] d VS Easy Computer
+[3/5/2025 9:36:14 AM] number of rounds 3
+[3/5/2025 9:36:17 AM] Match result: d vs Easy Computer
+[3/5/2025 9:36:17 AM] Scores: d: 14, Easy Computer: 11
+[3/5/2025 9:36:17 AM] d wins with a score difference of 3 points!
+--------Game 21--------
+[3/5/2025 9:54:30 AM] Game Session started
+--------Game 22--------
+[3/5/2025 9:59:12 AM] Game Session started
+--------Game 23--------
+--------Game 24--------
+[3/5/2025 9:59:34 AM] dd VS Easy Computer
+[3/5/2025 9:59:35 AM] number of rounds 3
+[3/5/2025 9:59:37 AM] Match result: Easy Computer vs dd
+[3/5/2025 9:59:37 AM] Scores: Easy Computer: 19, dd: 18
+[3/5/2025 9:59:37 AM] Easy Computer wins with a score difference of 1 points!
+--------Game 25--------
+[3/5/2025 10:08:09 AM] Game Session started
+--------Game 26--------
+[3/5/2025 10:08:27 AM] Player 1: Tob vs Player 2: tt
+[3/5/2025 10:08:28 AM] number of rounds 3
+[3/5/2025 10:08:34 AM] Match result: Tob vs tt
+[3/5/2025 10:08:34 AM] Scores: Tob: 22, tt: 18
+[3/5/2025 10:08:34 AM] Tob wins with a score difference of 4 points!
+--------Game 27--------
+[3/5/2025 10:10:24 AM] Game Session started
+[3/5/2025 10:28:47 AM] Game Session started
+--------Game 28--------
+--------Game 29--------
+--------Game 30--------
+--------Game 31--------
+[3/5/2025 10:36:41 AM] Game Session started
+--------Game 32--------
+--------Game 33--------
+--------Game 34--------
+--------Game 35--------
+--------Game 36--------
+[3/5/2025 10:37:27 AM] dd VS Easy Computer
+[3/5/2025 10:37:28 AM] number of rounds 3
+[3/5/2025 10:37:29 AM] Match result: Easy Computer vs dd
+[3/5/2025 10:37:29 AM] Scores: Easy Computer: 18, dd: 11
+[3/5/2025 10:37:29 AM] Easy Computer wins with a score difference of 7 points!
+--------Game 37--------
+[3/5/2025 10:41:54 AM] Game Session started
+--------Game 38--------
+--------Game 39--------
+[3/5/2025 10:42:12 AM] Game Session started
+--------Game 40--------
+--------Game 41--------
+--------Game 42--------
+[3/5/2025 10:42:34 AM] Player 1: a vs Player 2: tt
+[3/5/2025 10:42:35 AM] number of rounds 3
+[3/5/2025 10:42:37 AM] Match result: tt vs a
+[3/5/2025 10:42:37 AM] Scores: tt: 16, a: 15
+[3/5/2025 10:42:37 AM] tt wins with a score difference of 1 points!
+--------Game 43--------
+[3/5/2025 11:13:17 AM] Game Session started
+--------Game 44--------
+--------Game 45--------
+--------Game 46--------
+--------Game 47--------
+--------Game 48--------
+--------Game 49--------
+--------Game 50--------
+--------Game 51--------
+--------Game 52--------
+--------Game 53--------
+[3/5/2025 11:15:14 AM] Game Session started
+--------Game 54--------
+--------Game 55--------
