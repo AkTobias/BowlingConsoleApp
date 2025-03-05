@@ -6,3 +6,11 @@
 [3/3/2025 7:48:56 PM] Scores: Hard Computer: 30, tod: 3
 [3/3/2025 7:48:56 PM] Hard Computer wins with a score difference of 27 points!
 --------Game 2--------
+[3/3/2025 10:08:53 PM] Game Session started
+--------Game 3--------
+[3/3/2025 10:09:00 PM] dd VS Hard Computer
+[3/3/2025 10:09:01 PM] number of rounds 3
+[3/3/2025 10:09:08 PM] Match result: Hard Computer vs dd
+[3/3/2025 10:09:08 PM] Scores: Hard Computer: 30, dd: 16
+[3/3/2025 10:09:08 PM] Hard Computer wins with a score difference of 14 points!
+--------Game 4--------

@@ -12,3 +12,4 @@
 /home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/BowlingConsoleApp.pdb
 /home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/BowlingConsoleApp.genruntimeconfig.cache
 /home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/ref/BowlingConsoleApp.dll
+/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/Debug/net9.0/BowlingConsoleApp.sourcelink.json
