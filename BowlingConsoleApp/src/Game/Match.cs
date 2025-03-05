@@ -29,8 +29,16 @@ namespace BowlingConsoleApp.src.Game
             for(int round = 1; round <= _rounds; round++)
             {
                 System.Console.WriteLine($"--Round {round} ---");
-                Console.WriteLine("Press enter to Bowl!");
-                Console.ReadLine();
+                Console.WriteLine("Press Spacebar to Bowl!");
+
+                while (true)
+                {
+                    ConsoleKeyInfo keyInfo = Console.ReadKey(true);
+                    if(keyInfo.Key == ConsoleKey.Spacebar)
+                    {
+                        break;
+                    }
+                }
                 
                 foreach (var player in _players)
                 {

@@ -47,7 +47,22 @@ namespace BowlingConsoleApp.src.User
             return users.Count == 0 ? 1 : users.Max(u => u.Id) + 1;
         }
 
-        //Update user
-        //delete user
+        public bool DeleteUser(string userName)
+        {
+            List<User> users = LoadUsers();
+
+            var deleteUser = users.FirstOrDefault(u => u.Name.Equals(userName, StringComparison.OrdinalIgnoreCase));
+
+            if(deleteUser != null)
+            {
+                users.Remove(deleteUser);
+
+                SaveUsers(users);
+
+                return true;
+
+            }
+            return false;
+        }
     }
 }

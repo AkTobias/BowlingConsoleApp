@@ -8,6 +8,9 @@ Stakeholders and Interests:
 3. Game System Needs to manage the match, calucalte the score and determine the winner.
 -------------------
 Preconditions:
+Before the to be able to play the user must input a valid username.
+If user donst have a not registern a user, the user get the option to do so.
+Registern users are stored in a json file acting as a simple database.
 The game initialises and with a valid game type (human vs human) or (human vs computer) is seleted.
 Player have the choice to pick how many rounds of bowling to play.
 Players is created using the appropiate player factoires(human or computer).
@@ -20,5 +23,7 @@ Player can choose to play again or exit.
 Main FLow
 
 Alternitve flows
+ERROR handleing, chekcing if all inputs for the menu are correct, when registerning a user checks so the name atlest contains 2 letters and max 8
+and no white spaces. When bowling that only enter or backspace in valid input.
 
 PostConditions

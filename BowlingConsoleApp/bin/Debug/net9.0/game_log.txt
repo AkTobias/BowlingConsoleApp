@@ -206,3 +206,286 @@
 [3/5/2025 11:15:14 AM] Game Session started
 --------Game 54--------
 --------Game 55--------
+[3/5/2025 3:02:59 PM] Game Session started
+--------Game 56--------
+--------Game 57--------
+--------Game 58--------
+--------Game 59--------
+--------Game 60--------
+[3/5/2025 3:03:25 PM] Player 1: apa vs Player 2: a
+[3/5/2025 3:03:27 PM] number of rounds 3
+[3/5/2025 3:03:30 PM] Match result: apa vs a
+[3/5/2025 3:03:30 PM] Scores: apa: 22, a: 17
+[3/5/2025 3:03:30 PM] apa wins with a score difference of 5 points!
+--------Game 61--------
+--------Game 62--------
+[3/5/2025 3:10:18 PM] Game Session started
+--------Game 63--------
+[3/5/2025 3:10:50 PM] Game Session started
+--------Game 64--------
+--------Game 65--------
+[3/5/2025 3:11:06 PM] Game Session started
+--------Game 66--------
+--------Game 67--------
+--------Game 68--------
+[3/5/2025 3:22:37 PM] Game Session started
+--------Game 69--------
+--------Game 70--------
+[3/5/2025 3:23:10 PM] Player 1: apa vs Player 2: a
+[3/5/2025 3:23:11 PM] number of rounds 3
+[3/5/2025 3:23:13 PM] Match result: a vs apa
+[3/5/2025 3:23:13 PM] Scores: a: 23, apa: 11
+[3/5/2025 3:23:13 PM] a wins with a score difference of 12 points!
+--------Game 71--------
+[3/5/2025 3:25:16 PM] a VS Hard Computer
+[3/5/2025 3:25:18 PM] number of rounds 3
+[3/5/2025 3:25:21 PM] Match result: Hard Computer vs a
+[3/5/2025 3:25:21 PM] Scores: Hard Computer: 30, a: 11
+[3/5/2025 3:25:21 PM] Hard Computer wins with a score difference of 19 points!
+--------Game 72--------
+[3/5/2025 3:36:29 PM] Game Session started
+--------Game 73--------
+--------Game 74--------
+--------Game 75--------
+[3/5/2025 3:36:48 PM] a VS Hard Computer
+[3/5/2025 3:36:50 PM] number of rounds 3
+[3/5/2025 3:36:58 PM] Match result: Hard Computer vs a
+[3/5/2025 3:36:58 PM] Scores: Hard Computer: 30, a: 18
+[3/5/2025 3:36:58 PM] Hard Computer wins with a score difference of 12 points!
+--------Game 76--------
+[3/5/2025 3:45:35 PM] Game Session started
+--------Game 77--------
+[3/5/2025 3:45:41 PM] a VS Hard Computer
+[3/5/2025 3:45:43 PM] number of rounds 3
+[3/5/2025 3:45:53 PM] Match result: Hard Computer vs a
+[3/5/2025 3:45:53 PM] Scores: Hard Computer: 30, a: 9
+[3/5/2025 3:45:53 PM] Hard Computer wins with a score difference of 21 points!
+--------Game 78--------
+[3/5/2025 3:47:25 PM] Game Session started
+--------Game 79--------
+[3/5/2025 3:47:35 PM] a VS Hard Computer
+[3/5/2025 3:47:36 PM] number of rounds 3
+[3/5/2025 3:47:39 PM] Match result: Hard Computer vs a
+[3/5/2025 3:47:39 PM] Scores: Hard Computer: 30, a: 11
+[3/5/2025 3:47:39 PM] Hard Computer wins with a score difference of 19 points!
+--------Game 80--------
+[3/5/2025 4:55:10 PM] Game Session started
+--------Game 81--------
+--------Game 82--------
+[3/5/2025 4:55:26 PM] a VS Hard Computer
+[3/5/2025 4:55:27 PM] number of rounds 3
+[3/5/2025 4:57:12 PM] Game Session started
+--------Game 83--------
+[3/5/2025 4:57:21 PM] a VS Hard Computer
+[3/5/2025 4:57:22 PM] number of rounds 3
+[3/5/2025 4:58:59 PM] Game Session started
+--------Game 84--------
+[3/5/2025 4:59:06 PM] a VS Hard Computer
+[3/5/2025 4:59:07 PM] number of rounds 2
+[3/5/2025 4:59:13 PM] number of rounds 3
+[3/5/2025 5:03:10 PM] Game Session started
+--------Game 85--------
+[3/5/2025 5:03:29 PM] Game Session started
+--------Game 86--------
+[3/5/2025 5:03:41 PM] a VS Hard Computer
+[3/5/2025 5:03:45 PM] Match result: Hard Computer vs a
+[3/5/2025 5:03:45 PM] Scores: Hard Computer: 30, a: 13
+[3/5/2025 5:03:45 PM] Hard Computer wins with a score difference of 17 points!
+[3/5/2025 5:03:45 PM] number of rounds 3
+[3/5/2025 5:03:50 PM] Match result: Hard Computer vs a
+[3/5/2025 5:03:50 PM] Scores: Hard Computer: 60, a: 21
+[3/5/2025 5:03:50 PM] Hard Computer wins with a score difference of 39 points!
+[3/5/2025 5:03:50 PM] number of rounds 3
+--------Game 87--------
+[3/5/2025 5:06:21 PM] Game Session started
+--------Game 88--------
+[3/5/2025 5:06:28 PM] a VS Hard Computer
+[3/5/2025 5:06:31 PM] Match result: Hard Computer vs a
+[3/5/2025 5:06:31 PM] Scores: Hard Computer: 30, a: 3
+[3/5/2025 5:06:31 PM] Hard Computer wins with a score difference of 27 points!
+[3/5/2025 5:06:31 PM] number of rounds 3
+[3/5/2025 5:06:37 PM] Match result: Hard Computer vs a
+[3/5/2025 5:06:37 PM] Scores: Hard Computer: 60, a: 22
+[3/5/2025 5:06:37 PM] Hard Computer wins with a score difference of 38 points!
+[3/5/2025 5:06:37 PM] number of rounds 3
+--------Game 89--------
+[3/5/2025 5:16:42 PM] Game Session started
+--------Game 90--------
+[3/5/2025 5:17:00 PM] a VS Easy Computer
+[3/5/2025 5:17:14 PM] Match result: Easy Computer vs a
+[3/5/2025 5:17:14 PM] Scores: Easy Computer: 18, a: 12
+[3/5/2025 5:17:14 PM] Easy Computer wins with a score difference of 6 points!
+[3/5/2025 5:17:14 PM] number of rounds 3
+--------Game 86--------
+[3/5/2025 8:19:18 PM] Game Session started
+--------Game 87--------
+[3/5/2025 8:19:25 PM] a VS Hard Computer
+[3/5/2025 8:19:29 PM] Match result: Hard Computer vs a
+[3/5/2025 8:19:29 PM] Scores: Hard Computer: 30, a: 23
+[3/5/2025 8:19:29 PM] Hard Computer wins with a score difference of 7 points!
+[3/5/2025 8:19:29 PM] number of rounds 3
+--------Game 88--------
+[3/5/2025 8:19:49 PM] Player 1: apa vs Player 2: a
+[3/5/2025 8:19:54 PM] Match result: apa vs a
+[3/5/2025 8:19:54 PM] Scores: apa: 16, a: 11
+[3/5/2025 8:19:54 PM] apa wins with a score difference of 5 points!
+[3/5/2025 8:19:54 PM] number of rounds 3
+[3/5/2025 8:20:00 PM] Match result: apa vs a
+[3/5/2025 8:20:00 PM] Scores: apa: 31, a: 25
+[3/5/2025 8:20:00 PM] apa wins with a score difference of 6 points!
+[3/5/2025 8:20:00 PM] number of rounds 3
+--------Game 89--------
+--------Game 90--------
+[3/5/2025 8:20:31 PM] apa VS Hard Computer
+[3/5/2025 8:20:35 PM] Match result: Hard Computer vs apa
+[3/5/2025 8:20:35 PM] Scores: Hard Computer: 100, apa: 58
+[3/5/2025 8:20:35 PM] Hard Computer wins with a score difference of 42 points!
+[3/5/2025 8:20:35 PM] number of rounds 10
+[3/5/2025 8:20:43 PM] Match result: Hard Computer vs apa
+[3/5/2025 8:20:43 PM] Scores: Hard Computer: 130, apa: 79
+[3/5/2025 8:20:43 PM] Hard Computer wins with a score difference of 51 points!
+[3/5/2025 8:20:43 PM] number of rounds 3
+[3/5/2025 8:24:31 PM] Game Session started
+--------Game 91--------
+[3/5/2025 8:24:43 PM] a VS Easy Computer
+[3/5/2025 8:24:45 PM] Match result: Easy Computer vs a
+[3/5/2025 8:24:45 PM] Scores: Easy Computer: 18, a: 7
+[3/5/2025 8:24:45 PM] Easy Computer wins with a score difference of 11 points!
+[3/5/2025 8:24:45 PM] number of rounds 3
+[3/5/2025 8:26:35 PM] Game Session started
+--------Game 92--------
+[3/5/2025 8:26:49 PM] a VS Easy Computer
+[3/5/2025 8:26:52 PM] Match result: a vs Easy Computer
+[3/5/2025 8:26:52 PM] Scores: a: 25, Easy Computer: 18
+[3/5/2025 8:26:52 PM] a wins with a score difference of 7 points!
+[3/5/2025 8:26:52 PM] number of rounds 3
+[3/5/2025 8:27:04 PM] Game Session started
+--------Game 93--------
+[3/5/2025 8:27:08 PM] Game Session started
+--------Game 94--------
+[3/5/2025 8:27:13 PM] Game Session started
+--------Game 95--------
+[3/5/2025 8:27:19 PM] Game Session started
+--------Game 96--------
+[3/5/2025 8:27:43 PM] Game Session started
+--------Game 97--------
+[3/5/2025 8:27:51 PM] a VS Hard Computer
+[3/5/2025 8:27:55 PM] Match result: Hard Computer vs a
+[3/5/2025 8:27:55 PM] Scores: Hard Computer: 30, a: 15
+[3/5/2025 8:27:55 PM] Hard Computer wins with a score difference of 15 points!
+[3/5/2025 8:27:55 PM] number of rounds 3
+[3/5/2025 8:28:04 PM] Game Session started
+--------Game 98--------
+[3/5/2025 9:33:18 PM] Game Session started
+--------Game 99--------
+--------Game 100--------
+--------Game 101--------
+[3/5/2025 9:38:09 PM] Game Session started
+--------Game 102--------
+[3/5/2025 9:40:05 PM] Game Session started
+--------Game 103--------
+[3/5/2025 9:40:25 PM] tob VS Hard Computer
+[3/5/2025 9:40:28 PM] Match result: Hard Computer vs tob
+[3/5/2025 9:40:28 PM] Scores: Hard Computer: 30, tob: 12
+[3/5/2025 9:40:28 PM] Hard Computer wins with a score difference of 18 points!
+[3/5/2025 9:40:28 PM] number of rounds 3
+--------Game 104--------
+--------Game 105--------
+--------Game 106--------
+[3/5/2025 9:40:42 PM] apa VS Easy Computer
+[3/5/2025 9:40:45 PM] Match result: apa vs Easy Computer
+[3/5/2025 9:40:45 PM] Scores: apa: 26, Easy Computer: 13
+[3/5/2025 9:40:45 PM] apa wins with a score difference of 13 points!
+[3/5/2025 9:40:45 PM] number of rounds 3
+[3/5/2025 9:55:16 PM] Game Session started
+--------Game 107--------
+--------Game 108--------
+[3/5/2025 9:56:12 PM] Game Session started
+--------Game 109--------
+--------Game 110--------
+--------Game 111--------
+[3/5/2025 9:58:30 PM] Game Session started
+--------Game 112--------
+--------Game 113--------
+--------Game 114--------
+--------Game 115--------
+--------Game 116--------
+--------Game 117--------
+--------Game 118--------
+[3/5/2025 10:01:49 PM] Game Session started
+--------Game 119--------
+--------Game 120--------
+--------Game 121--------
+[3/5/2025 10:19:01 PM] Game Session started
+--------Game 122--------
+[3/5/2025 10:21:14 PM] Game Session started
+--------Game 123--------
+--------Game 124--------
+--------Game 125--------
+--------Game 126--------
+--------Game 127--------
+--------Game 128--------
+--------Game 129--------
+--------Game 130--------
+[3/5/2025 10:24:41 PM] Game Session started
+--------Game 131--------
+--------Game 132--------
+--------Game 133--------
+--------Game 134--------
+--------Game 135--------
+--------Game 136--------
+--------Game 137--------
+[3/5/2025 10:28:42 PM] Game Session started
+--------Game 138--------
+--------Game 139--------
+--------Game 140--------
+--------Game 141--------
+--------Game 142--------
+--------Game 143--------
+--------Game 144--------
+--------Game 145--------
+--------Game 146--------
+[3/5/2025 10:31:34 PM] Game Session started
+--------Game 147--------
+--------Game 148--------
+--------Game 149--------
+--------Game 150--------
+[3/5/2025 10:36:01 PM] Game Session started
+--------Game 151--------
+--------Game 152--------
+[3/5/2025 10:36:23 PM] Game Session started
+--------Game 153--------
+--------Game 154--------
+[3/5/2025 10:36:53 PM] Game Session started
+--------Game 155--------
+--------Game 156--------
+--------Game 157--------
+--------Game 158--------
+--------Game 159--------
+--------Game 160--------
+--------Game 161--------
+--------Game 162--------
+--------Game 163--------
+--------Game 164--------
+--------Game 165--------
+--------Game 166--------
+--------Game 167--------
+[3/5/2025 10:46:18 PM] Game Session started
+--------Game 168--------
+[3/5/2025 10:46:53 PM] aaaa VS Hard Computer
+[3/5/2025 10:47:00 PM] Match result: Hard Computer vs aaaa
+[3/5/2025 10:47:00 PM] Scores: Hard Computer: 30, aaaa: 12
+[3/5/2025 10:47:00 PM] Hard Computer wins with a score difference of 18 points!
+[3/5/2025 10:47:00 PM] number of rounds 3
+[3/5/2025 10:48:01 PM] Match result: Hard Computer vs aaaa
+[3/5/2025 10:48:01 PM] Scores: Hard Computer: 60, aaaa: 33
+[3/5/2025 10:48:01 PM] Hard Computer wins with a score difference of 27 points!
+[3/5/2025 10:48:01 PM] number of rounds 3
+[3/5/2025 10:48:06 PM] Match result: Hard Computer vs aaaa
+[3/5/2025 10:48:06 PM] Scores: Hard Computer: 80, aaaa: 37
+[3/5/2025 10:48:06 PM] Hard Computer wins with a score difference of 43 points!
+[3/5/2025 10:48:06 PM] number of rounds 2
+[3/5/2025 10:48:11 PM] Match result: Hard Computer vs aaaa
+[3/5/2025 10:48:11 PM] Scores: Hard Computer: 90, aaaa: 43
+[3/5/2025 10:48:11 PM] Hard Computer wins with a score difference of 47 points!
+[3/5/2025 10:48:11 PM] number of rounds 1

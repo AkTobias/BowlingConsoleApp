@@ -14,3 +14,19 @@
 [3/3/2025 10:09:08 PM] Scores: Hard Computer: 30, dd: 16
 [3/3/2025 10:09:08 PM] Hard Computer wins with a score difference of 14 points!
 --------Game 4--------
+[3/5/2025 5:58:01 PM] Game Session started
+--------Game 5--------
+--------Game 6--------
+[3/5/2025 6:22:30 PM] a VS Hard Computer
+[3/5/2025 6:23:35 PM] Game Session started
+--------Game 7--------
+[3/5/2025 6:23:59 PM] a VS Hard Computer
+[3/5/2025 6:24:39 PM] Game Session started
+--------Game 8--------
+[3/5/2025 6:24:53 PM] a VS Hard Computer
+[3/5/2025 8:18:02 PM] Game Session started
+--------Game 9--------
+[3/5/2025 8:18:08 PM] a VS Hard Computer
+[3/5/2025 9:02:43 PM] Game Session started
+--------Game 10--------
+[3/5/2025 9:03:07 PM] a VS Hard Computer
