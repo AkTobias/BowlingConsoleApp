@@ -676,3 +676,20 @@
 --------Game 222--------
 --------Game 223--------
 --------Game 224--------
+[3/6/2025 9:33:14 PM] Game Session started
+--------Game 225--------
+--------Game 226--------
+[3/6/2025 9:33:57 PM] tobias VS Hard Mode
+[3/6/2025 9:34:01 PM] Match result: Hard Mode vs tobias
+[3/6/2025 9:34:01 PM] Scores: Hard Mode: 100, tobias: 49
+[3/6/2025 9:34:01 PM] Hard Mode wins with a score difference of 51 points!
+[3/6/2025 9:34:01 PM] number of rounds 10
+--------Game 227--------
+[3/6/2025 9:34:20 PM] Player 1: tobias vs Player 2: apa
+[3/6/2025 9:34:27 PM] Match result: tobias vs apa
+[3/6/2025 9:34:27 PM] Scores: tobias: 63, apa: 56
+[3/6/2025 9:34:27 PM] tobias wins with a score difference of 7 points!
+[3/6/2025 9:34:27 PM] number of rounds 10
+--------Game 228--------
+--------Game 229--------
+--------Game 230--------
