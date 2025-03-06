@@ -16,7 +16,8 @@ namespace BowlingConsoleApp.src.User
     public class UserStorage
     {
 
-        private const string FilePath = "users.json";
+        //private const string FilePath = "users.json";
+        private static readonly string FilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "users.json");
 
         public List<User> LoadUsers()
         {
