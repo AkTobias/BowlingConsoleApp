@@ -1,83 +1,120 @@
 @startuml
-' Strategy Pattern
-interface IAiStrategy {
-    + PlayTurn(): int
+
+package "Players" {
+    class Player {
+        +string Name
+        +int Score
+        +Play()
+    }
+
+    class HumanPlayer {
+        +Random _random
+        +Play()
+    }
+
+    class AiPlayer {
+        +IAiStrategy _aiStrategy
+        +Play()
+    }
+
+    Player <|-- HumanPlayer
+    Player <|-- AiPlayer
 }
 
-class EasyAiStrategy {
-    + PlayTurn(): int
+package "Strategies" {
+    interface IAiStrategy {
+        +int PlayTurn()
+    }
+
+    class EasyAiStrategy {
+        +int PlayTurn()
+    }
+
+    class HardAiStrategy {
+        +int PlayTurn()
+    }
+
+    IAiStrategy <|-- EasyAiStrategy
+    IAiStrategy <|-- HardAiStrategy
 }
 
-class HardAiStrategy {
-    + PlayTurn(): int
+package "Factories" {
+    abstract class PlayerFactory {
+        +CreatePlayer(name: string): Player
+    }
+
+    class AiPlayerFactory {
+        +IAiStrategy _aiStrategy
+        +CreatePlayer(name: string): Player
+    }
+
+    class HumanPlayerFactory {
+        +UserManager _userManager
+        +CreatePlayer(name: string): Player
+    }
+
+    PlayerFactory <|-- AiPlayerFactory
+    PlayerFactory <|-- HumanPlayerFactory
 }
 
-IAiStrategy <|-- EasyAiStrategy
-IAiStrategy <|-- HardAiStrategy
+package "Game" {
+    class GameManager {
+        +StartGame()
+        +PlayGame()
+    }
 
-' Player Hierarchy
-abstract class Player {
-    - Name: string
-    - Score: int
-    + Play(): void
+    class Match {
+        +List<Player> _players
+        +int _rounds
+        +Start()
+    }
+
+    GameManager --> Match
 }
 
-class HumanPlayer {
-    + Play(): void
+package "User" {
+    class User {
+        +int Id
+        +string Name
+    }
+
+    class UserManager {
+        +RegisterUser()
+        +UserExists(name: string): bool
+        +DisplayAllUsers()
+        +DeleteUser()
+    }
+
+    class UserStorage {
+        +LoadUsers(): List<User>
+        +SaveUsers(users: List<User>)
+        +GetAllUsers(): List<User>
+        +GiveUsersId(): int
+        +DeleteUser(userName: string): bool
+    }
+
+    UserManager --> User
+    UserManager --> UserStorage
 }
 
-class AiPlayer {
-    - _aiStrategy: IAiStrategy
-    + Play(): void
+package "Logger" {
+    class SingletonLogger {
+        +StartGame()
+        +Log(message: string, additionalData: Dictionary<string, object>)
+    }
 }
 
-Player <|-- HumanPlayer
-Player <|-- AiPlayer
+' ---- Class Relations ----
 
-' Composition: AiPlayer contains an IAiStrategy
-AiPlayer *-- IAiStrategy
+PlayerFactory --> Player : Creates
+AiPlayerFactory --> IAiStrategy : Uses
+HumanPlayerFactory --> UserManager : Uses
+GameManager --> Match : Manages
+GameManager --> Player : Uses
+GameManager --> Logger : Uses
+UserManager --> User : Manages
+UserManager --> UserStorage : Uses
+SingletonLogger --> GameManager : Logs Game
 
-' Factory Pattern
-abstract class PlayerFactory {
-    + CreatePlayer(name: string): Player
-}
-
-class HumanPlayerFactory {
-    + CreatePlayer(name: string): Player
-}
-
-class AiPlayerFactory {
-    - _aiStrategy: IAiStrategy
-    + CreatePlayer(name: string): Player
-}
-
-PlayerFactory <|-- HumanPlayerFactory
-PlayerFactory <|-- AiPlayerFactory
-
-' Dependency: AiPlayerFactory requires an IAiStrategy
-AiPlayerFactory --> IAiStrategy 
-
-' Singleton Logger
-class SingletonLogger {
-    - _instance: SingletonLogger
-    - _lock: object
-    + Instance: SingletonLogger
-    + Log(message: string): void
-}
-
-' Match System
-class Match {
-    - _players: List<Player>
-    - _rounds: int
-    + Start(): void
-}
-
-class GameManager {
-    + StartGame(): void
-}
-
-GameManager --> Match
-Match --> Player
-SingletonLogger --> Match
-SingletonLogger --> GameManager
 @enduml
+

@@ -489,3 +489,151 @@
 [3/5/2025 10:48:11 PM] Scores: Hard Computer: 90, aaaa: 43
 [3/5/2025 10:48:11 PM] Hard Computer wins with a score difference of 47 points!
 [3/5/2025 10:48:11 PM] number of rounds 1
+[3/6/2025 3:41:20 PM] Game Session started
+--------Game 169--------
+--------Game 170--------
+--------Game 171--------
+--------Game 172--------
+--------Game 173--------
+--------Game 174--------
+--------Game 175--------
+--------Game 176--------
+[3/6/2025 3:49:34 PM] aaaa VS Hard Computer
+[3/6/2025 5:56:37 PM] Game Session started
+--------Game 177--------
+[3/6/2025 5:56:54 PM] aaaa VS Easy Mode
+[3/6/2025 5:56:57 PM] Match result: aaaa vs Easy Mode
+[3/6/2025 5:56:57 PM] Scores: aaaa: 20, Easy Mode: 14
+[3/6/2025 5:56:57 PM] aaaa wins with a score difference of 6 points!
+[3/6/2025 5:56:57 PM] number of rounds 3
+--------Game 178--------
+[3/6/2025 5:57:40 PM] aaaa VS 
+[3/6/2025 5:58:24 PM] Game Session started
+--------Game 179--------
+[3/6/2025 5:58:46 PM] dddd VS Easy Mode
+[3/6/2025 5:59:48 PM] Game Session started
+--------Game 180--------
+[3/6/2025 5:59:58 PM] aaaa VS Easy Mode
+[3/6/2025 6:00:13 PM] Match result: Easy Mode vs aaaa
+[3/6/2025 6:00:13 PM] Scores: Easy Mode: 14, aaaa: 6
+[3/6/2025 6:00:13 PM] Easy Mode wins with a score difference of 8 points!
+[3/6/2025 6:00:13 PM] number of rounds 4
+[3/6/2025 6:00:20 PM] Game Session started
+--------Game 181--------
+[3/6/2025 6:00:28 PM] aaaa VS Easy Mode
+[3/6/2025 6:44:38 PM] Game Session started
+--------Game 182--------
+[3/6/2025 6:44:55 PM] aaaa VS Hard Mode
+[3/6/2025 6:45:03 PM] Match result: Hard Mode vs aaaa
+[3/6/2025 6:45:03 PM] Scores: Hard Mode: 20, aaaa: 7
+[3/6/2025 6:45:03 PM] Hard Mode wins with a score difference of 13 points!
+[3/6/2025 6:45:03 PM] number of rounds 2
+[3/6/2025 6:45:22 PM] Match result: Hard Mode vs aaaa
+[3/6/2025 6:45:22 PM] Scores: Hard Mode: 30, aaaa: 17
+[3/6/2025 6:45:22 PM] Hard Mode wins with a score difference of 13 points!
+[3/6/2025 6:45:22 PM] number of rounds 1
+[3/6/2025 6:45:28 PM] Match result: Hard Mode vs aaaa
+[3/6/2025 6:45:28 PM] Scores: Hard Mode: 60, aaaa: 33
+[3/6/2025 6:45:28 PM] Hard Mode wins with a score difference of 27 points!
+[3/6/2025 6:45:28 PM] number of rounds 3
+--------Game 183--------
+[3/6/2025 6:45:41 PM] aaaa VS Hard Mode
+[3/6/2025 6:45:46 PM] Match result: Hard Mode vs aaaa
+[3/6/2025 6:45:46 PM] Scores: Hard Mode: 40, aaaa: 26
+[3/6/2025 6:45:46 PM] Hard Mode wins with a score difference of 14 points!
+[3/6/2025 6:45:46 PM] number of rounds 4
+[3/6/2025 6:48:14 PM] Game Session started
+--------Game 184--------
+--------Game 185--------
+[3/6/2025 6:48:32 PM] apa VS Hard Mode
+[3/6/2025 6:48:36 PM] Match result: Hard Mode vs apa
+[3/6/2025 6:48:36 PM] Scores: Hard Mode: 30, apa: 10
+[3/6/2025 6:48:36 PM] Hard Mode wins with a score difference of 20 points!
+[3/6/2025 6:48:36 PM] number of rounds 3
+[3/6/2025 6:49:29 PM] Game Session started
+--------Game 186--------
+--------Game 187--------
+--------Game 188--------
+[3/6/2025 6:49:48 PM] tobias VS Hard Mode
+[3/6/2025 6:49:49 PM] number of rounds 3
+[3/6/2025 6:51:41 PM] Game Session started
+--------Game 189--------
+--------Game 190--------
+[3/6/2025 6:52:01 PM] tobias VS Easy Mode
+[3/6/2025 6:52:04 PM] Match result: tobias vs Easy Mode
+[3/6/2025 6:52:04 PM] Scores: tobias: 19, Easy Mode: 12
+[3/6/2025 6:52:04 PM] tobias wins with a score difference of 7 points!
+[3/6/2025 6:52:04 PM] number of rounds 3
+[3/6/2025 6:52:25 PM] Match result: Easy Mode vs tobias
+[3/6/2025 6:52:25 PM] Scores: Easy Mode: 72, tobias: 63
+[3/6/2025 6:52:25 PM] Easy Mode wins with a score difference of 9 points!
+[3/6/2025 6:52:25 PM] number of rounds 10
+--------Game 191--------
+[3/6/2025 6:53:31 PM] Game Session started
+--------Game 192--------
+[3/6/2025 6:53:41 PM] tobias VS Easy Mode
+[3/6/2025 6:53:43 PM] Match result: tobias vs Easy Mode
+[3/6/2025 6:53:43 PM] Scores: tobias: 18, Easy Mode: 15
+[3/6/2025 6:53:43 PM] tobias wins with a score difference of 3 points!
+[3/6/2025 6:53:43 PM] number of rounds 3
+[3/6/2025 6:53:53 PM] Game Session started
+--------Game 193--------
+[3/6/2025 6:54:23 PM] Game Session started
+--------Game 194--------
+--------Game 195--------
+--------Game 196--------
+[3/6/2025 6:55:09 PM] Game Session started
+--------Game 197--------
+[3/6/2025 6:55:34 PM] Game Session started
+--------Game 198--------
+[3/6/2025 6:55:43 PM] tobias VS Hard Mode
+[3/6/2025 6:55:48 PM] Match result: Hard Mode vs tobias
+[3/6/2025 6:55:48 PM] Scores: Hard Mode: 30, tobias: 19
+[3/6/2025 6:55:48 PM] Hard Mode wins with a score difference of 11 points!
+[3/6/2025 6:55:48 PM] number of rounds 3
+[3/6/2025 6:57:00 PM] Game Session started
+--------Game 199--------
+[3/6/2025 7:01:49 PM] Game Session started
+--------Game 200--------
+[3/6/2025 7:04:56 PM] Game Session started
+--------Game 201--------
+[3/6/2025 7:06:01 PM] Game Session started
+--------Game 202--------
+[3/6/2025 7:06:12 PM] Game Session started
+--------Game 203--------
+[3/6/2025 7:06:21 PM] Game Session started
+--------Game 204--------
+[3/6/2025 7:06:51 PM] tobias VS 
+[3/6/2025 7:07:35 PM] Game Session started
+--------Game 205--------
+[3/6/2025 7:07:48 PM] tobias VS Hard Mode
+[3/6/2025 7:07:52 PM] Match result: Hard Mode vs tobias
+[3/6/2025 7:07:52 PM] Scores: Hard Mode: 10, tobias: 8
+[3/6/2025 7:07:52 PM] Hard Mode wins with a score difference of 2 points!
+[3/6/2025 7:07:52 PM] number of rounds 1
+[3/6/2025 7:12:03 PM] Game Session started
+--------Game 206--------
+[3/6/2025 7:12:25 PM] Player 1: tobias vs Player 2: apa
+[3/6/2025 7:12:30 PM] Match result: tobias vs apa
+[3/6/2025 7:12:30 PM] Scores: tobias: 28, apa: 18
+[3/6/2025 7:12:30 PM] tobias wins with a score difference of 10 points!
+[3/6/2025 7:12:30 PM] number of rounds 4
+--------Game 207--------
+[3/6/2025 7:13:29 PM] tobias VS Hard Mode
+[3/6/2025 7:13:34 PM] Match result: Hard Mode vs tobias
+[3/6/2025 7:13:34 PM] Scores: Hard Mode: 100, tobias: 58
+[3/6/2025 7:13:34 PM] Hard Mode wins with a score difference of 42 points!
+[3/6/2025 7:13:34 PM] number of rounds 10
+[3/6/2025 7:15:39 PM] Game Session started
+--------Game 208--------
+[3/6/2025 7:15:51 PM] Match result: Hard Mode vs tobias
+[3/6/2025 7:15:51 PM] Scores: Hard Mode: 30, tobias: 11
+[3/6/2025 7:15:51 PM] Hard Mode wins with a score difference of 19 points!
+[3/6/2025 7:15:51 PM] number of rounds 3
+[3/6/2025 7:18:40 PM] Game Session started
+--------Game 209--------
+[3/6/2025 7:19:30 PM] tobias VS Hard Mode
+[3/6/2025 7:19:35 PM] Match result: Hard Mode vs tobias
+[3/6/2025 7:19:35 PM] Scores: Hard Mode: 100, tobias: 36
+[3/6/2025 7:19:35 PM] Hard Mode wins with a score difference of 64 points!
+[3/6/2025 7:19:35 PM] number of rounds 10

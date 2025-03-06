@@ -12,6 +12,7 @@ using BowlingConsoleApp.src.User;
 using System.Collections;
 using System.Transactions;
 using System.Buffers;
+using Microsoft.VisualBasic;
 
 namespace BowlingConsoleApp.src.Game
 {
@@ -48,16 +49,11 @@ namespace BowlingConsoleApp.src.Game
 
         public void StartGame()
         {
-            /* SingletonLogger logger = SingletonLogger.Instance;
-            UserManager userManager = new UserManager(); */
-
+  
             logger.Log("Game Session started");
 
             System.Console.WriteLine("Welcome to the bowling game!");
-            //userManager.RegisterUser();
-
-            //bool playAnotherGame = true;
-            //int gameCount = 1;
+  
 
             while (true)
             {
@@ -69,7 +65,7 @@ namespace BowlingConsoleApp.src.Game
                 System.Console.WriteLine("3. Delete user");
                 System.Console.WriteLine("4. Play a game");
                 System.Console.WriteLine("5. Exit");
-                System.Console.WriteLine("Choose an option 1-5");
+                System.Console.Write("Choose an option 1-5: ");
 
 
                 int choice;
@@ -136,109 +132,132 @@ namespace BowlingConsoleApp.src.Game
                     System.Console.WriteLine("Choose Game type");
                     System.Console.WriteLine("1. Play vs another human");
                     System.Console.WriteLine("2. Play vs Computer");
-                    System.Console.Write("Make your choice 1 or 2");
-                    int gameMode = int.Parse(Console.ReadLine());
+                    System.Console.Write("Make your choice 1 or 2: ");
+                    int gameMode;
 
-
-
-                    switch (gameMode)
+                    while (true)
                     {
-                        //Human vs Human
-                        case 1:
-                            string playerOne = GetValiedUser("Enter name of the first player");
-                            string playerTwo = GetValiedUser("Enter name of the second player");
-
-                            playerFactory = new HumanPlayerFactory();
-                            players.Add(playerFactory.CreatePlayer(playerOne));
-                            players.Add(playerFactory.CreatePlayer(playerTwo));
-
-                            logger.Log($"Player 1: {playerOne} vs Player 2: {playerTwo}");
-                            break;
-
-                        case 2:
-                            //System.Console.WriteLine("Enter name your name");
-                            string player = GetValiedUser("Enter yuor name");
-                            playerFactory = new HumanPlayerFactory();
-                            players.Add(playerFactory.CreatePlayer(player));
+                        Console.Write("Make your choice (1 or 2): ");
+                        if (int.TryParse(Console.ReadLine(), out gameMode) && (gameMode == 1 || gameMode == 2))
+                        {
+                            break; // Valid input, exit loop
+                        }
+                        else
+                        {
+                            System.Console.WriteLine("Invalid input. Please enter 1 for Human vs Human or 2 for Human vs Computer.");
+                        }
+                    }
 
 
-                            System.Console.WriteLine("Choose Ai difficulty ");
-                            System.Console.WriteLine("1 - Easy mode");
-                            System.Console.WriteLine("2 - Hard mode");
-                            System.Console.WriteLine("Enter your choice 1 or 2");
-                            int gameDifficulty = int.Parse(Console.ReadLine());
-                            IAiStrategy aiStrategy = null; // here
-                            string aiName = "";
 
-                            switch (gameDifficulty)
-                            {
-                                case 1:
+                        switch (gameMode)
+                        {
+                            //Human vs Human
+                            case 1:
+                                string playerOne = GetValiedUser("Enter name of the first player: ");
+                                string playerTwo = GetValiedUser("Enter name of the second player: ");
+
+                                playerFactory = new HumanPlayerFactory();
+                                players.Add(playerFactory.CreatePlayer(playerOne));
+                                players.Add(playerFactory.CreatePlayer(playerTwo));
+
+                                logger.Log($"Player 1: {playerOne} vs Player 2: {playerTwo}");
+                                break;
+
+                            case 2:
+                                //System.Console.WriteLine("Enter name your name");
+                                string player = GetValiedUser("Enter your name: ");
+                                playerFactory = new HumanPlayerFactory();
+                                players.Add(playerFactory.CreatePlayer(player));
+
+
+                                System.Console.WriteLine("Choose Ai difficulty ");
+                                System.Console.WriteLine("1 - Easy mode");
+                                System.Console.WriteLine("2 - Hard mode");
+                                System.Console.Write("Enter your choice (1 or 2): ");
+                                int gameDifficulty;
+
+
+                                while (true)
+                                {
+                                    Console.Write("Enter your choice (1 or 2): ");
+                                    string input = Console.ReadLine();
+
+                                    if (int.TryParse(input, out gameDifficulty) && (gameDifficulty == 1 || gameDifficulty == 2))
+                                    {
+                                        break;
+                                    }
+                                    else
+                                    {
+                                        System.Console.WriteLine("Invalid input, pick 1 for easy or 2 for hard");
+                                    }
+                                }
+                                IAiStrategy aiStrategy = null;
+                                string aiName = "";
+
+                                if (gameDifficulty == 1)
+                                {
                                     aiStrategy = new EasyAiStrategy();
-                                    aiName = "Easy Computer";
-                                    break;
-                                case 2:
+                                    aiName = "Easy Mode";
+                                }
+                                else if (gameDifficulty == 2)
+                                {
                                     aiStrategy = new HardAiStrategy();
-                                    aiName = "Hard Computer";
-                                    break;
-                                default:
-                                    System.Console.WriteLine("invalid input");
-                                    continue;
+                                    aiName = "Hard Mode";
+                                }
 
 
-                            }
+                                playerFactory = new AiPlayerFactory(aiStrategy);
+                                players.Add(playerFactory.CreatePlayer(aiName));
 
-                            playerFactory = new AiPlayerFactory(aiStrategy);
-                            players.Add(playerFactory.CreatePlayer(aiName));
+                                logger.Log($"{player} VS {aiName}");
+                                break;
 
-                            logger.Log($"{player} VS {aiName}");
-                            break;
-
-                        default:
-                            System.Console.WriteLine("Invalid choice");
-                            continue;
-
+                        }
 
                     }
 
-                }
 
 
+                    System.Console.WriteLine("How many rounds do you want to play? ");
 
-                System.Console.WriteLine("How many rounds do you want to play?");
-                rounds = int.Parse(Console.ReadLine());
-
-                Match match = new Match(players, rounds);
-                match.Start();
-                logger.Log($"number of rounds {rounds}");
-
-                System.Console.WriteLine("1. Do you want to play again");
-                System.Console.WriteLine("2. Back to main menu");
-                System.Console.WriteLine("3. Exit Game");
-                System.Console.WriteLine("Enter your choice:");
-
-                int afterGameChoice = int.Parse(Console.ReadLine());
-                switch (afterGameChoice)
-                {
-                    case 1:
-                        playAgain = true;
-                        break;
-                    case 2:
-                        return;
-                    case 3:
-                        Environment.Exit(0);//here
-                        break;
-                    default:
-                        System.Console.WriteLine("Invalid input");
-                        return;
+                    while (!int.TryParse(Console.ReadLine(), out rounds) || rounds <= 0)
+                    {
+                        System.Console.WriteLine("Invalid input. please enter a positive number");
+                    }
 
 
+                    Match match = new Match(players, rounds);
+                    match.Start();
+                    logger.Log($"number of rounds {rounds}");
 
-                }
+                    System.Console.WriteLine("1. Do you want to play again");
+                    System.Console.WriteLine("2. Back to main menu");
+                    System.Console.WriteLine("3. Exit Game");
+                    System.Console.Write("Enter your choice:");
 
-            } while (playAgain);
+                    int afterGameChoice;
+                    while (!int.TryParse(Console.ReadLine(), out afterGameChoice) || afterGameChoice < 1 || afterGameChoice > 3)
+                    {
+                        System.Console.WriteLine("invalid input. Please enter a number between 1 and 3");
+                    }
+                    switch (afterGameChoice)
+                    {
+                        case 1:
+                            playAgain = true;
+                            break;
+                        case 2:
+                            return;
+                        case 3:
+                            Environment.Exit(0);
+                            break;
 
-        }
+                    }
+
+                } while (playAgain) ;
+
+            }}
 
 
     }
-}
+    
