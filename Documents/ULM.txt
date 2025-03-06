@@ -1,0 +1,120 @@
+@startuml
+
+package "Players" {
+    abstract class Player {
+        +string Name
+        +int Score
+        +Play()
+    }
+
+    class HumanPlayer {
+        +Random _random
+        +Play()
+    }
+
+    class AiPlayer {
+        +IAiStrategy _aiStrategy
+        +Play()
+    }
+
+    Player <|-- HumanPlayer
+    Player <|-- AiPlayer
+}
+
+package "Strategies" {
+    interface IAiStrategy {
+        +int PlayTurn()
+    }
+
+    class EasyAiStrategy {
+        +int PlayTurn()
+    }
+
+    class HardAiStrategy {
+        +int PlayTurn()
+    }
+
+    IAiStrategy <|-- EasyAiStrategy
+    IAiStrategy <|-- HardAiStrategy
+}
+
+package "Factories" {
+    abstract class PlayerFactory {
+        +CreatePlayer(name: string): Player
+    }
+
+    class AiPlayerFactory {
+        +IAiStrategy _aiStrategy
+        +CreatePlayer(name: string): Player
+    }
+
+    class HumanPlayerFactory {
+        +UserManager _userManager
+        +CreatePlayer(name: string): Player
+    }
+
+    PlayerFactory <|-- AiPlayerFactory
+    PlayerFactory <|-- HumanPlayerFactory
+}
+
+package "Game" {
+    class GameManager {
+        +StartGame()
+        +PlayGame()
+    }
+
+    class Match {
+        +List<Player> _players
+        +int _rounds
+        +Start()
+    }
+
+    GameManager --> Match
+}
+
+package "User" {
+    class User {
+        +int Id
+        +string Name
+    }
+
+    class UserManager {
+        +RegisterUser()
+        +UserExists(name: string): bool
+        +DisplayAllUsers()
+        +DeleteUser()
+    }
+
+    class UserStorage {
+        +LoadUsers(): List<User>
+        +SaveUsers(users: List<User>)
+        +GetAllUsers(): List<User>
+        +GiveUsersId(): int
+        +DeleteUser(userName: string): bool
+    }
+
+    UserManager --> User
+    UserManager --> UserStorage
+}
+
+package "Logger" {
+    class SingletonLogger {
+        +StartGame()
+        +Log(message: string, additionalData: Dictionary<string, object>)
+    }
+}
+
+' ---- Class Relations ----
+
+PlayerFactory --> Player : Creates
+AiPlayerFactory --> IAiStrategy : Uses
+HumanPlayerFactory --> UserManager : Uses
+GameManager --> Match : Manages
+GameManager --> Player : Uses
+GameManager --> Logger : Uses
+UserManager --> User : Manages
+UserManager --> UserStorage : Uses
+SingletonLogger --> GameManager : Logs Game
+
+@enduml
+

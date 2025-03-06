@@ -11,9 +11,11 @@ namespace BowlingConsoleApp.src.Logger
     {
         private static readonly Lazy<SingletonLogger> _instance = 
             new Lazy<SingletonLogger>(() => new SingletonLogger());
-        //private static readonly object _lock = new object();
-        private string _gameLogFilePath = "game_log.txt";
-        private string _NumOfGamesFilePath = "current_game_num.txt";
+       
+
+       private static readonly string _gameLogFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "game_log.txt");
+       private static readonly string _NumOfGamesFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "current_game_num.txt");
+
         private int _currentGameNumber;
 
         private SingletonLogger()
@@ -36,20 +38,6 @@ namespace BowlingConsoleApp.src.Logger
             }
         }
 
-        /* public static SingletonLogger Instance
-        {
-            get
-            {
-                lock(_lock)
-                {
-                    if(_instance == null)
-                    {
-                        _instance = new SingletonLogger();
-                    }
-                    return _instance;
-                }
-            }
-        } */
         public static SingletonLogger Instance => _instance.Value;
         public void StartGame()
         {
@@ -79,7 +67,7 @@ namespace BowlingConsoleApp.src.Logger
 
                 logEntry += Environment.NewLine;
 
-                System.Console.WriteLine(logEntry);
+                //System.Console.WriteLine(logEntry);
 
                 File.AppendAllText(_gameLogFilePath, logEntry);
             }

@@ -1,0 +1,41 @@
+Primary Actors:
+ * Human Player
+ * Ai Player
+--------------
+Stakeholders and Interests:
+1 Human player: Wants to play a set number of rounds of bowling, vs another human or vs the computer.
+2. AI player: Will follow preferd strategies (Easy or Hard) to play vs the human.
+3. Game System: mangaes the matches, calucalte the score, determines the winner.
+-------------------
+Preconditions:
+Before the to be able to play the user must input a valid username.
+If user donst have a not registern a user, the user get the option to do so.
+Registern users are stored in a json file acting as a simple database.
+The game initialises and with a valid game mode (human vs human) or (human vs computer) is seleted.
+Player have the choice to pick how many rounds of bowling to play.
+Players is created using the appropiate player factoires(human or computer).
+If playing vs the computer, the user selects the Ai difficulty (Easy or Hard).
+The system ensures that all inputs follows validations rules(username format and menu and option selections).
+-------------------------
+Postcondtions:
+The match compeletes and the winner and looser is demerimed by the score.
+The match data are logged in a textfile.
+Player can choose to play again or exit.
+
+Main flow
+The game starts and the user selects the game mode.
+Checks if the user is in the database (json file).
+Players are created based on the selected input human vs human or human vs computer.
+The number of rounds are chosen by the player.
+The game begins and plays the number of rounds entered.
+The system calculates scores after each turn.
+After all turns are played the system determines the winner and looser.
+The match result is displayed, and data is logged in a text file.
+The user can choose to play again vs the same opponent, return to main menu or exit the game.
+
+Alternitve flows
+If the user input an invalid username, they are prompted to try again.
+If the user trying to register a new user with wrong format or if the user is already registerd the user, the user must pick another name.
+If an invalid menu selection is made, an error appears and tell the user to input a valid one.
+If an invalid input is made during the rounds (only blankspace button works) the user is told to use blankspace button instead, all other inputs are locked
+

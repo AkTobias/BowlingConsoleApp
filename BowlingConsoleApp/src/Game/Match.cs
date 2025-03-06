@@ -28,9 +28,17 @@ namespace BowlingConsoleApp.src.Game
 
             for(int round = 1; round <= _rounds; round++)
             {
-                System.Console.WriteLine($"--Round {round} ---");
-                Console.WriteLine("Press enter to Bowl!");
-                Console.ReadLine();
+                System.Console.WriteLine($"----- Round {round} ----- of rounds {_rounds}");
+                Console.WriteLine("Press Spacebar to Bowl!");
+
+                while (true)
+                {
+                    ConsoleKeyInfo keyInfo = Console.ReadKey(true);
+                    if(keyInfo.Key == ConsoleKey.Spacebar)
+                    {
+                        break;
+                    }
+                }
                 
                 foreach (var player in _players)
                 {
@@ -48,8 +56,8 @@ namespace BowlingConsoleApp.src.Game
             }
             
             int scoreDiff = winner.Score - looser.Score;
-            System.Console.WriteLine($"Winner is {winner} with {winner.Score}");
-            System.Console.WriteLine($"Looser is {looser} with {looser.Score}");
+            System.Console.WriteLine($"Winner is {winner.Name} with {winner.Score}");
+            System.Console.WriteLine($"Looser is {looser.Name} with {looser.Score}");
             System.Console.WriteLine($"Score difference: {scoreDiff} points");
 
             logger.Log($"Match result: {winner.Name} vs {looser.Name}");
