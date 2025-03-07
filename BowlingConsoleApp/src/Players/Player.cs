@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace BowlingConsoleApp.src.Players
 {
-    //Template metod pattern
+    //Template method pattern
     public abstract class Player
     {
         public string Name {get; set;}
