@@ -824,3 +824,10 @@
 [2025-03-07 13:20:13] number of rounds 5
 --------Game 267--------
 --------Game 268--------
+[3/7/2025 4:23:08 PM] Game Session started
+--------Game 269--------
+[3/7/2025 4:23:14 PM] tobias VS Hard Mode
+[3/7/2025 4:23:19 PM] Match result: Hard Mode vs tobias
+[3/7/2025 4:23:19 PM] Scores: Hard Mode: 200, tobias: 76
+[3/7/2025 4:23:19 PM] Hard Mode wins with a score difference of 124 points!
+[3/7/2025 4:23:19 PM] number of rounds 200
