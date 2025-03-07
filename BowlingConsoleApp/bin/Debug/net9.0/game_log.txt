@@ -752,3 +752,75 @@
 [2025-03-07 11:28:11] Scores: aaaa: 96, tobias: 75
 [2025-03-07 11:28:11] aaaa wins with a score difference of 21 points!
 [2025-03-07 11:28:11] number of rounds 30
+[2025-03-07 12:07:28] Match result: aaaa vs tobias
+[2025-03-07 12:07:28] Scores: aaaa: 193, tobias: 158
+[2025-03-07 12:07:28] aaaa wins with a score difference of 35 points!
+[2025-03-07 12:07:28] number of rounds 19
+--------Game 248--------
+[2025-03-07 12:07:46] tobias VS Hard Mode
+[2025-03-07 12:08:02] Match result: Hard Mode vs tobias
+[2025-03-07 12:08:02] Scores: Hard Mode: 200, tobias: 101
+[2025-03-07 12:08:02] Hard Mode wins with a score difference of 99 points!
+[2025-03-07 12:08:02] number of rounds 333333
+[2025-03-07 12:21:18] Game Session started
+--------Game 249--------
+[2025-03-07 12:21:27] tobias VS Hard Mode
+[2025-03-07 12:21:29] Match result: Hard Mode vs tobias
+[2025-03-07 12:21:29] Scores: Hard Mode: 10, tobias: 7
+[2025-03-07 12:21:29] Hard Mode wins with a score difference of 3 points!
+[2025-03-07 12:21:29] number of rounds 1
+[2025-03-07 12:21:46] Match result: Hard Mode vs tobias
+[2025-03-07 12:21:46] Scores: Hard Mode: 30, tobias: 17
+[2025-03-07 12:21:46] Hard Mode wins with a score difference of 13 points!
+[2025-03-07 12:21:46] number of rounds 2
+[2025-03-07 12:21:58] Match result: Hard Mode vs tobias
+[2025-03-07 12:21:58] Scores: Hard Mode: 70, tobias: 44
+[2025-03-07 12:21:58] Hard Mode wins with a score difference of 26 points!
+[2025-03-07 12:21:58] number of rounds 4
+--------Game 250--------
+[2025-03-07 12:22:10] tobias VS Hard Mode
+[2025-03-07 12:22:15] Match result: Hard Mode vs tobias
+[2025-03-07 12:22:15] Scores: Hard Mode: 100, tobias: 59
+[2025-03-07 12:22:15] Hard Mode wins with a score difference of 41 points!
+[2025-03-07 12:22:15] number of rounds 10
+[2025-03-07 12:36:04] Game Session started
+--------Game 251--------
+[2025-03-07 12:50:48] apa VS Hard Mode
+[2025-03-07 12:50:57] Match result: Hard Mode vs apa
+[2025-03-07 12:50:57] Scores: Hard Mode: 200, apa: 102
+[2025-03-07 12:50:57] Hard Mode wins with a score difference of 98 points!
+[2025-03-07 12:50:57] number of rounds 20
+[2025-03-07 13:01:51] Game Session started
+--------Game 252--------
+--------Game 253--------
+--------Game 254--------
+--------Game 255--------
+--------Game 256--------
+--------Game 257--------
+--------Game 258--------
+--------Game 259--------
+--------Game 260--------
+[2025-03-07 13:05:46] Game Session started
+--------Game 261--------
+[2025-03-07 13:05:51] Player 1: Tobias vs Player 2: tobias
+[2025-03-07 13:05:56] Match result: tobias vs Tobias
+[2025-03-07 13:05:56] Scores: tobias: 58, Tobias: 48
+[2025-03-07 13:05:56] tobias wins with a score difference of 10 points!
+[2025-03-07 13:05:56] number of rounds 10
+[2025-03-07 13:06:34] Match result: tobias vs Tobias
+[2025-03-07 13:06:34] Scores: tobias: 71, Tobias: 55
+[2025-03-07 13:06:34] tobias wins with a score difference of 16 points!
+[2025-03-07 13:06:34] number of rounds 2
+[2025-03-07 13:17:08] Game Session started
+--------Game 262--------
+--------Game 263--------
+--------Game 264--------
+--------Game 265--------
+--------Game 266--------
+[2025-03-07 13:19:55] aaa VS Hard Mode
+[2025-03-07 13:20:13] Match result: Hard Mode vs aaa
+[2025-03-07 13:20:13] Scores: Hard Mode: 50, aaa: 29
+[2025-03-07 13:20:13] Hard Mode wins with a score difference of 21 points!
+[2025-03-07 13:20:13] number of rounds 5
+--------Game 267--------
+--------Game 268--------

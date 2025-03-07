@@ -18,7 +18,7 @@ namespace BowlingConsoleApp.src.Game
 
         public Match(List<Player> players , int rounds)
         {
-            _players = players ?? new List<Player>();
+            _players = players;
             _rounds = Math.Min(rounds, 20);
         }
 
