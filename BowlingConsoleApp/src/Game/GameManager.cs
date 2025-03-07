@@ -219,7 +219,7 @@ namespace BowlingConsoleApp.src.Game
 
 
 
-                System.Console.WriteLine("How many rounds do you want to play? ");
+                System.Console.WriteLine("How many rounds do you want to play? (Max 20 rounds) ");
 
                 while (!int.TryParse(Console.ReadLine(), out rounds) || rounds <= 0)
                 {

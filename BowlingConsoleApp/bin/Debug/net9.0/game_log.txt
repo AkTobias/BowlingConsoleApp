@@ -703,3 +703,52 @@
 [3/7/2025 8:50:29 AM] number of rounds 3
 --------Game 233--------
 --------Game 234--------
+[2025-03-07 09:27:13] Game Session started
+--------Game 235--------
+[2025-03-07 09:27:21] tobias VS Hard Mode
+[2025-03-07 09:27:24] Match result: Hard Mode vs tobias
+[2025-03-07 09:27:24] Scores: Hard Mode: 30, tobias: 15
+[2025-03-07 09:27:24] Hard Mode wins with a score difference of 15 points!
+[2025-03-07 09:27:24] number of rounds 3
+[2025-03-07 09:35:32] Match result: Hard Mode vs tobias
+[2025-03-07 09:35:32] Scores: Hard Mode: 60, tobias: 28
+[2025-03-07 09:35:32] Hard Mode wins with a score difference of 32 points!
+[2025-03-07 09:35:32] number of rounds 3
+--------Game 236--------
+--------Game 237--------
+--------Game 238--------
+--------Game 239--------
+--------Game 240--------
+--------Game 241--------
+--------Game 242--------
+--------Game 243--------
+--------Game 244--------
+[2025-03-07 11:15:57] tobias VS Hard Mode
+[2025-03-07 11:16:04] Match result: Hard Mode vs tobias
+[2025-03-07 11:16:04] Scores: Hard Mode: 100, tobias: 54
+[2025-03-07 11:16:04] Hard Mode wins with a score difference of 46 points!
+[2025-03-07 11:16:04] number of rounds 10
+[2025-03-07 11:16:33] Match result: Hard Mode vs tobias
+[2025-03-07 11:16:33] Scores: Hard Mode: 110, tobias: 63
+[2025-03-07 11:16:33] Hard Mode wins with a score difference of 47 points!
+[2025-03-07 11:16:33] number of rounds 1
+[2025-03-07 11:25:24] Game Session started
+--------Game 245--------
+[2025-03-07 11:25:33] aaaa VS Hard Mode
+[2025-03-07 11:25:41] Match result: Hard Mode vs aaaa
+[2025-03-07 11:25:41] Scores: Hard Mode: 200, aaaa: 104
+[2025-03-07 11:25:41] Hard Mode wins with a score difference of 96 points!
+[2025-03-07 11:25:41] number of rounds 30
+[2025-03-07 11:27:36] Game Session started
+--------Game 246--------
+[2025-03-07 11:27:44] tobias VS Hard Mode
+[2025-03-07 11:27:50] Match result: Hard Mode vs tobias
+[2025-03-07 11:27:50] Scores: Hard Mode: 100, tobias: 74
+[2025-03-07 11:27:50] Hard Mode wins with a score difference of 26 points!
+[2025-03-07 11:27:50] number of rounds 10
+--------Game 247--------
+[2025-03-07 11:28:03] Player 1: tobias vs Player 2: aaaa
+[2025-03-07 11:28:11] Match result: aaaa vs tobias
+[2025-03-07 11:28:11] Scores: aaaa: 96, tobias: 75
+[2025-03-07 11:28:11] aaaa wins with a score difference of 21 points!
+[2025-03-07 11:28:11] number of rounds 30

@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/BowlingConsoleApp.csproj": {}
+    "C:\\Users\\Toby\\Desktop\\Redovisning\\BowlingConsoleApp\\BowlingConsoleApp\\BowlingConsoleApp.csproj": {}
   },
   "projects": {
-    "/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/BowlingConsoleApp.csproj": {
+    "C:\\Users\\Toby\\Desktop\\Redovisning\\BowlingConsoleApp\\BowlingConsoleApp\\BowlingConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/BowlingConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Toby\\Desktop\\Redovisning\\BowlingConsoleApp\\BowlingConsoleApp\\BowlingConsoleApp.csproj",
         "projectName": "BowlingConsoleApp",
-        "projectPath": "/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/BowlingConsoleApp.csproj",
-        "packagesPath": "/home/tobiasak/.nuget/packages/",
-        "outputPath": "/home/tobiasak/Documents/C#/BowlingConsoleApp/BowlingConsoleApp/obj/",
+        "projectPath": "C:\\Users\\Toby\\Desktop\\Redovisning\\BowlingConsoleApp\\BowlingConsoleApp\\BowlingConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Toby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Toby\\Desktop\\Redovisning\\BowlingConsoleApp\\BowlingConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/tobiasak/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Toby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
